@@ -1,3 +1,5 @@
+Consider: This project is *old*, really ***old***...
+
 # TB2RightClick
 
 Delphi unit to be able to be notified of right clicks on Toolbar2000 items, e.g. to have popup menus for menu items.
