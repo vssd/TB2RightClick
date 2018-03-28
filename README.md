@@ -10,6 +10,7 @@ Copyright (C) 2006, 2018 Volker Siebert, <flocke@vssd.de>
 ## Required Versions
 
 Verified Delphi versions: 5 to 2006
+
 Verified Toolbar2000 versions: 2.1.7
 
 ## Description
