@@ -1,15 +1,15 @@
-Consider: This project is *old*, really ***old***...
+Consider: This is *really* old stuff.
 
 # TB2RightClick
 
 Delphi unit to be able to be notified of right clicks on Toolbar2000 items, e.g. to have popup menus for menu items.
 
-Version 1.0 - find the most current version at
+Version 1.0
 https://github.com/vssd/TB2RightClick
 
-Copyright (C) 2006, 2018 Volker Siebert, <flocke@vssd.de>
+Copyright (C) 2006 Volker Siebert, <flocke@vssd.de>
 
-## Required Versions
+## Compatibility
 
 Verified Delphi versions: 5 to 2006
 
@@ -17,7 +17,7 @@ Verified Toolbar2000 versions: 2.1.7
 
 ## Description
 
-Someone asked if it was able to assign a PopupMenu to individual Toolbar2000 items. Since they are not really visible controls, this is not possible.
+Someone asked if it was able to assign a popup menu to individual Toolbar2000 items. Since they are not really visible controls, this is not possible.
 
 If you capture the `WM_RBUTTONDOWN` or `WM_CONTEXTMENU` of the toolbar itself, it only fires for clicks on the toolbar directly and not on items in popup menus.
 

@@ -2,7 +2,7 @@
   main.pas
 
   This file is part of the TB2RightClick.pas sample application.
-  Info at http://flocke.vssd.de/prog/code/pascal/tb2merge/
+  Info at https://github.com/vssd/TB2RightClick
 
   Copyright (C) 2006 Volker Siebert <flocke@vssd.de>
   All rights reserved.
@@ -40,11 +40,9 @@ type
     procedure FormCreate(Sender: TObject);
     procedure TBItemClick(Sender: TObject);
   private
-    { Private-Deklarationen }
     function NewMenuItem(kmi: integer): TTBItem;
     function NewSubmenuItem(ksmi: integer): TTBSubmenuItem;
   public
-    { Public-Deklarationen }
     FItem: TTBCustomItem;
     procedure WMTB2RightClick(var Msg: TWMTB2RightClick);
       message WM_TB2RIGHTCLICK;

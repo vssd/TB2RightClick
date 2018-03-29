@@ -4,10 +4,10 @@
   Delphi unit to be able to be notified of right clicks on Toolbar2000
   items, e.g. to have popup menus for menu items.
 
-  Version 1.0a - always find the most current version at
-  http://flocke.vssd.de/prog/code/pascal/tb2rclk/
+  Version 1.0a
+  https://github.com/vssd/TB2RightClick
 
-  Copyright (C) 2006 Volker Siebert <flocke@vssd.de>
+  Copyright (C) 2006 Volker Siebert, <flocke@vssd.de>
   All rights reserved.
 
   Permission is hereby granted, free of charge, to any person obtaining a

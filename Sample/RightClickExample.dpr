@@ -2,7 +2,7 @@
   RightClickExample.dpr
 
   This file is part of the TB2RightClick.pas sample application.
-  Info at http://flocke.vssd.de/prog/code/pascal/tb2rclk/
+  Info at https://github.com/vssd/TB2RightClick
 
   Copyright (C) 2006 Volker Siebert <flocke@vssd.de>
   All rights reserved.
